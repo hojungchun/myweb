@@ -1,7 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import {Button, Progress} from 'semantic-ui-react'
+import App from './App';
+
 
 function App() {
   return (
